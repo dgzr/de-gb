@@ -1,0 +1,2 @@
+# Deob-Smartgb
+Dekod :v
