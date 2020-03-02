@@ -1,8 +1,12 @@
 <p align="center"><img src="https://i.ibb.co/JdmzVn0/20200225-204032-picsay.jpg"></p>
-<p align="center"><img src="https://img.shields.io/badge/python-2.7.17-blue"></p>
+<p float="left">
+  <img src="https://img.shields.io/badge/coded%20by-Ezz--Kun-red" width="100" />
+  <img src="https://img.shields.io/badge/Instagram-%40aditia__07-yellow" width="100" /> 
+  <img src="https://img.shields.io/badge/python-2.7.17-blue" width="100" />
+</p>
 
 ### Example Decode
-<p align="center"><img src="https://i.ibb.co/5hdrkGS/Screenshot-20200225-202530.png"></p>
+<p align="center"><img src="https://i.ibb.co/6tyf59C/Screenshot-20200302-185521-picsay.png"></p>
 
 - [x] **Example Encode (Normal Security)**
 ```
